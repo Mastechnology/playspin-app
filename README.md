@@ -1,16 +1,9 @@
 # playspin
 
-A new Flutter project.
+Random değerler üretmesi için yapmış olduğum flutter projesine hoşgeldiniz.
+Bu projenin videosunu görmek için en yakın zamanda linki paylaşacağım.
 
-## Getting Started
+## Merhabalar
 
-This project is a starting point for a Flutter application.
+Bu ilk proje Flutter projemi incelemeye hoşgeldiniz!
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
