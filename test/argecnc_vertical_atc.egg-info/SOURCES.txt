@@ -1,0 +1,16 @@
+MANIFEST.in
+README.md
+setup.py
+argecnc_vertical_atc/__init__.py
+argecnc_vertical_atc/__init__.py.bak
+argecnc_vertical_atc/config.yml
+argecnc_vertical_atc/config.yml.bak
+argecnc_vertical_atc/mainwindow.py
+argecnc_vertical_atc.egg-info/PKG-INFO
+argecnc_vertical_atc.egg-info/SOURCES.txt
+argecnc_vertical_atc.egg-info/dependency_links.txt
+argecnc_vertical_atc.egg-info/entry_points.txt
+argecnc_vertical_atc.egg-info/top_level.txt
+argecnc_vertical_atc/resources/resources.qrc
+argecnc_vertical_atc/ui/mainwindow.ui
+argecnc_vertical_atc/ui/style.qss
