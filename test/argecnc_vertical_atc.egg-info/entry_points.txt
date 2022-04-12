@@ -1,6 +1,0 @@
-[gui_scripts]
-argecnc_vertical_atc = argecnc_vertical_atc:main
-
-[qtpyvcp.vcp]
-argecnc_vertical_atc = argecnc_vertical_atc
-
